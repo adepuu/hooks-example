@@ -1,0 +1,3 @@
+interface DrillingCountProps {
+  count: number
+}
